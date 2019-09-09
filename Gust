@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am tryptaminded on github.
+  * I am tryptaminded (https://keybase.io/tryptaminded) on keybase.
+  * I have a public key ASD2oDSqMfbqHyAzFjszShmj_EcBLrr1eb58Su4-t6Z47go
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f6a034aa31f6ea1f2033163b334a19a3fc47012ebaf579be7c4aee3eb7a678ee0a",
+      "host": "keybase.io",
+      "kid": "0120f6a034aa31f6ea1f2033163b334a19a3fc47012ebaf579be7c4aee3eb7a678ee0a",
+      "uid": "8911a1ee16c000295ca308d991c21319",
+      "username": "tryptaminded"
+    },
+    "merkle_root": {
+      "ctime": 1568065518,
+      "hash": "82964f9b2cb42e283dbc037afe53d87c6279a7d5cd7d5d225ff23d1a5ac26f1de0c8b9d1ab6f56f685d23571c3201b1d343563b219396281567b363e7a90ebf0",
+      "hash_meta": "44e030839587f0450e038d8d872082bed63a27da4ea0cd54bf21a73ff215211c",
+      "seqno": 6260645
+    },
+    "service": {
+      "entropy": "seDWrKdy3WOYxyLpWm6o0Vi1",
+      "name": "github",
+      "username": "tryptaminded"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568065685,
+  "expire_in": 504576000,
+  "prev": "b9e83951cfb72595d4a9cf3e98594d1556b2a9ee43130a7bbbc7df9cda89692f",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASD2oDSqMfbqHyAzFjszShmj_EcBLrr1eb58Su4-t6Z47go](https://keybase.io/tryptaminded), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg9qA0qjH26h8gMxY7M0oZo/xHAS669Xm+fEruPremeO4Kp3BheWxvYWTESpcCBcQgueg5Uc+3JZXUqc8+mFlNFVayqe5DEwp7u8ffnNqJaS/EINxTmvNOIumDWdVrYeT0N8OgLYZvRYg7+0nHAm5fYNxCAgHCo3NpZ8RA4HW2q0LuweBincQyhkgcyxhwbaM6WuFbzK6uvX3e9kgSKAOOWV2NXgdhHcPg+ltsKoR4BYEiYpuekPIq3lOaCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEueS5FOSshUPrO7JxhG+calbZlqaeD7DJeewGHuu6mno3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/tryptaminded
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id tryptaminded
+```
